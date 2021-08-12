@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/github-actions-demo/static/css/main.435d5fe5.chunk.css",
-    "main.js": "/github-actions-demo/static/js/main.d60283be.chunk.js",
-    "main.js.map": "/github-actions-demo/static/js/main.d60283be.chunk.js.map",
-    "runtime-main.js": "/github-actions-demo/static/js/runtime-main.1c9723b1.js",
-    "runtime-main.js.map": "/github-actions-demo/static/js/runtime-main.1c9723b1.js.map",
-    "static/js/2.e1f7aeec.chunk.js": "/github-actions-demo/static/js/2.e1f7aeec.chunk.js",
-    "static/js/2.e1f7aeec.chunk.js.map": "/github-actions-demo/static/js/2.e1f7aeec.chunk.js.map",
+    "main.css": "/github-actions-demo/static/css/main.5f361e03.chunk.css",
+    "main.js": "/github-actions-demo/static/js/main.37149b96.chunk.js",
+    "main.js.map": "/github-actions-demo/static/js/main.37149b96.chunk.js.map",
+    "runtime-main.js": "/github-actions-demo/static/js/runtime-main.2f497a14.js",
+    "runtime-main.js.map": "/github-actions-demo/static/js/runtime-main.2f497a14.js.map",
+    "static/js/2.81f34c35.chunk.js": "/github-actions-demo/static/js/2.81f34c35.chunk.js",
+    "static/js/2.81f34c35.chunk.js.map": "/github-actions-demo/static/js/2.81f34c35.chunk.js.map",
     "index.html": "/github-actions-demo/index.html",
-    "precache-manifest.8d5cb5a6a2a56e2afe1fc88e1c9d524e.js": "/github-actions-demo/precache-manifest.8d5cb5a6a2a56e2afe1fc88e1c9d524e.js",
+    "precache-manifest.f7dac02b571c96b9b29143e6105253b0.js": "/github-actions-demo/precache-manifest.f7dac02b571c96b9b29143e6105253b0.js",
     "service-worker.js": "/github-actions-demo/service-worker.js",
-    "static/css/main.435d5fe5.chunk.css.map": "/github-actions-demo/static/css/main.435d5fe5.chunk.css.map",
-    "static/js/2.e1f7aeec.chunk.js.LICENSE.txt": "/github-actions-demo/static/js/2.e1f7aeec.chunk.js.LICENSE.txt",
+    "static/css/main.5f361e03.chunk.css.map": "/github-actions-demo/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.81f34c35.chunk.js.LICENSE.txt": "/github-actions-demo/static/js/2.81f34c35.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/github-actions-demo/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1c9723b1.js",
-    "static/js/2.e1f7aeec.chunk.js",
-    "static/css/main.435d5fe5.chunk.css",
-    "static/js/main.d60283be.chunk.js"
+    "static/js/runtime-main.2f497a14.js",
+    "static/js/2.81f34c35.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.37149b96.chunk.js"
   ]
 }
